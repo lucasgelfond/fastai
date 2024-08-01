@@ -6,4 +6,4 @@ Heya! Currently working through Jeremy Howard's "Deep Learning for Coders" cours
 3. [Lesson #3 - Neural net foundations](https://lucasgelfond.substack.com/p/fastai-lesson-3-neural-net-foundations) (7/24/24)
 4. [Lesson #4 - Natural language processing](https://lucasgelfond.substack.com/p/fastai-lesson-4-natural-language) (7/25/24)
 5. [Lesson #5 - From-scratch model](https://lucasgelfond.substack.com/p/fastai-lesson-5-from-scratch-model) (7/27/24)
-6. Lesson #6 - TK!
+6. [Lesson #6 - Random Forests](https://lucasgelfond.substack.com/p/fastai-lesson-6-random-forests) (8/1/24)
